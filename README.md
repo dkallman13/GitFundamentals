@@ -6,5 +6,6 @@ here are some helpful commands when using git
 
 ## Git Commands
 
-- [git config](./Commands/Config.md)
-- [git init](./Commands/Init.md)
+ - [git config](./Commands/Config.md)
+ - [git init](./Commands/Init.md)
+ - [git add](./Commands/Add.md)
