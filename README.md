@@ -12,3 +12,4 @@ here are some helpful commands when using git
  - [git commit](./Commands/Commit.md)
  - [git remote](./Commands/Remote.md)
  - [git push](./Commands/Push.md)
+ - [git pull](./Commands/Pull.md)
