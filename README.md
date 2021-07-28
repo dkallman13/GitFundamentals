@@ -10,3 +10,4 @@ here are some helpful commands when using git
  - [git init](./Commands/Init.md)
  - [git add](./Commands/Add.md)
  - [git commit](./Commands/Commit.md)
+ - [git remote](./Commands/Remote.md)
