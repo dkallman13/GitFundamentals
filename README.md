@@ -14,3 +14,4 @@ here are some helpful commands when using git
  - [git push](./Commands/Push.md)
  - [git pull](./Commands/Pull.md)
  - [git status](./Commands/Status.md)
+ - [git clone](./Commands/Clone.md)
